@@ -67,10 +67,3 @@ The dataset contains IPL match and ball-by-ball data collected from publicly ava
 - Toss decision success rate
 - Venue-wise match results
 
----
-
-## 🚀 How to Run the Project
-
-### Step 1: Clone Repository
-```bash
-git clone https://github.com/your-username/ipl-data-analysis.git
